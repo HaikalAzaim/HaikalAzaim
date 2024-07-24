@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/Naski1">Muhammad Haikal Azaim</a></h1>
+![image](https://github.com/user-attachments/assets/8ec137a4-e401-4b87-a6e8-e8425fe99ac0)<h1 align="center">Hi 👋, I'm <a href="https://github.com/Naski1">Muhammad Haikal Azaim</a></h1>
 <h3 align="center">A passionate web developer from Kalibaru, Banyuwangi, Indonesia</h3>
 <img align="right" width="300" src="https://clipart-library.com/images/gce5ryLMi.gif">
 
@@ -28,7 +28,7 @@
 &nbsp;
 
 ## Languages and Tools
-<p align="center"> <a href="https://github.com/Naski1"><img src="https://skillicons.dev/icons?i=vscode,github,mongodb,css,html,js,express,bots,nodejs,laravel,django,bootstrap"></a></p>
+<p align="center"> <a href="https://github.com/HaikalAzaim"><img src="https://skillicons.dev/icons?i=vscode,github,mongodb,css,html,js,express,bots,nodejs,laravel,django,bootstrap"></a></p>
 <p align="center"> <a href="https://github.com/black-domon"><img src="https://skillicons.dev/icons?i=elixir,tailwind,php,mysql,replit"></a></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Naski1&show_icons=true&locale=en&layout=compact&bg_color=151515" alt="Haikal"/></p>
