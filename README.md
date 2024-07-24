@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/Naski1">Muhammad Ikhsan Mujianto</a></h1>
-<h3 align="center">A passionate web developer from Sumberasih, Probolinggo, Indonesia</h3>
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/Naski1">Muhammad Haikal Azaim</a></h1>
+<h3 align="center">A passionate web developer from Kalibaru, Banyuwangi, Indonesia</h3>
 <img align="right" width="300" src="https://clipart-library.com/images/gce5ryLMi.gif">
 
 - 🔭 I’m currently working on **PP Nurul Jadid**
