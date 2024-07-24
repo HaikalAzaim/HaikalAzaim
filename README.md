@@ -8,9 +8,9 @@
 
 - 💬 Ask me about **react, vue, laravel, and django**
 
-- 📫 How to reach me **Gantengiksan65@gmail.com**
+- 📫 How to reach me **barlamanhaikal@gmail.com**
 
-- WhatsApp or Mobile Phone Number **+62-8145-5095-274**
+- WhatsApp or Mobile Phone Number **087864669044******
 
 - ⚡ Fun fact **No Game No Life**
 
@@ -31,11 +31,11 @@
 <p align="center"> <a href="https://github.com/Naski1"><img src="https://skillicons.dev/icons?i=vscode,github,mongodb,css,html,js,express,bots,nodejs,laravel,django,bootstrap"></a></p>
 <p align="center"> <a href="https://github.com/black-domon"><img src="https://skillicons.dev/icons?i=elixir,tailwind,php,mysql,replit"></a></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Naski1&show_icons=true&locale=en&layout=compact&bg_color=151515" alt="Naski1"/></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Naski1&show_icons=true&locale=en&layout=compact&bg_color=151515" alt="Haikal"/></p>
 
 ## My Stats:
 <p align="center">
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=Naski1&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+<img height="200px" src="https://github.com/HaikalAzaim">
 </p>
 
 ## Activity On GitHub
